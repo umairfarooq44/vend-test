@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1542043036053" clover="3.2.0">
+  <project timestamp="1542043036053" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1">
+      <file name="Modal.js" path="/Users/umair/Desktop/task/Modal.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
